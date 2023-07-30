@@ -10,7 +10,7 @@ const LibraryPage = () => {
                 <p className="text-lg mb-2">All Games</p>
                 <Link href='' className="flex p-3 gap-2 border-r-4 border-transparent text-grey hover:border-accent hover:bg-gradient-to-l from-accent-50 to-transparent hover:text-accent">
                     <GoFileDirectoryFill className=" text-lg "/>
-                    <p className="hover:text-white">The Witcher</p> 
+                    <p className="hover:text-white">The Witcher ini loh</p> 
                 </Link>
                 <Link href='' className="flex p-3 gap-2 border-r-4 border-transparent text-grey hover:border-accent hover:bg-gradient-to-l from-accent-50 to-transparent hover:text-accent">
                     <GoFileDirectoryFill className=" text-lg "/>
