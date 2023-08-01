@@ -77,7 +77,7 @@ export default function RootLayout({ children }) {
                 </button>
               </div>
             </nav>
-            <div className=" h-screen mt-5" style={{ maxHeight: 'calc(100vh - 110px)' }}>{children}</div>
+            <div className=" h-screen mt-5" style={{ maxHeight: 'calc(100vh - 109px)' }}>{children}</div>
           </div>
         </div>
       </body>

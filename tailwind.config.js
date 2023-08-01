@@ -24,8 +24,14 @@ module.exports = {
       'white' : '#fff',
       'red' : '#FFA07A',
       'blue' : '#0000FF',
+      'green' : '#4CBB17',
       'grey' : '#808080'
     },
+    gridAutoColumns:{
+      '2fr' : 'minmax(0, 2fr)',
+      '3fr' : 'minmax(0, 3fr)',
+      '4fr' : 'minmax(0, 4fr)',
+    }
   },
   plugins: [],
 }
